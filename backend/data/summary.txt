@@ -1,0 +1,6 @@
+I am a Software Engineer with 0 years of experience. 
+My expertise includes Backend and AI/ML along with in-depth knowledge in SQL.
+
+Currently, I'm focused on Portifolio maker Project with multiple agents.
+
+My background includes fellowship in keploy.
